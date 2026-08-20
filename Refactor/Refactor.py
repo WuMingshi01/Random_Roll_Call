@@ -25,7 +25,6 @@ class Random_person:
 with open(list_path,'r',encoding='utf-8') as p:
     person=[line.strip() for line in p if line.strip()]    #按照每行为一个数据，生成列表
 
-#person=['a','B','1','@']
 
 
 a=Random_person(person)
