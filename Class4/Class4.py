@@ -1,5 +1,5 @@
 import tkinter
-from random import randint as rint,choice as rcho,seed as rseed,shuffle
+from random import choice as rcho,seed as rseed,shuffle
 from time import time
 
 
